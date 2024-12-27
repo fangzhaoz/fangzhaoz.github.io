@@ -1,14 +1,8 @@
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
+    {% for item in site.data.publications.featured %}
+      <p>{{ item.name }}   <a href="{{ item.paper_url }}">pdf</a> <a href="{{ item.paper_url }}">code</a> <a href="{{ item.paper_url }}">arxiv</a> </p>
+    {% endfor %}
   </div>
 </div>
