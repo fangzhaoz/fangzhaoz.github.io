@@ -2,7 +2,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
     {% for item in site.data.publications.featured %}
-      <p>{{ item.name }} <br>  <a href="{{ item.paper_url }}">pdf</a> <a href="{{ item.paper_url }}">code</a> <a href="{{ item.paper_url }}">arxiv</a> </br> </p>
+      <p><p style="color:blue;">{{ item.name }}</p> <br>  <a href="{{ item.paper_url }}">pdf</a> <a href="{{ item.paper_url }}">code</a> <a href="{{ item.paper_url }}">arxiv</a> </br> </p>
     {% endfor %}
   </div>
 </div>
