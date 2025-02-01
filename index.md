@@ -9,5 +9,5 @@ I am a fourth-year PhD student in the Department of Electrical Engineering at St
 <p>I'm open and happy to chat about research ideas, and also collaborate. &#128513;</p>
 <p></p>
 <p></p>
-<p>Email:&nbsp;<a href="zfzhao@stanford.edu">zfzhao@stanford.edu</a></p>
+<p>Email:&nbsp;<a href="mailto:zfzhao@stanford.edu">zfzhao@stanford.edu</a></p>
 
