@@ -9,10 +9,9 @@ I am a PhD student in the Department of Electrical Engineering at Stanford Unifo
 <p>I'm open and happy to chat about research ideas, and also collaborate :) </p>
 <p></p>
 <p></p>
-<p>Email:&nbsp;<a href="mailto:zfzhao@stanford.edu">zfzhao@stanford.edu</a></p>
 
 <p style="text-align:center">
-<a href="mailto:zfzhao@stanford.edu"><img src="assets/img/email.jpg" height="20" width="20" /></a> <big>/</big>
-                <a href="mailto:zfzhao@stanford.edu"><img src="assets/img/scholar.jpg" height="20" width="20" /></a> <big>/</big>
-                <a href="https://github.com/fangzhaoz"><img src="assets/img/github.jpg" height="20" width="20" /></a> 
+<a href="mailto:zfzhao@stanford.edu"><img src="assets/img/email.jpg" height="25" width="25" /></a> <big><big>/</big></big>
+                <a href="mailto:zfzhao@stanford.edu"><img src="assets/img/scholar.jpg" height="25" width="25" /></a> <big><big>/</big></big>
+                <a href="https://github.com/fangzhaoz"><img src="assets/img/github.jpg" height="25" width="25" /></a> 
 </p>
