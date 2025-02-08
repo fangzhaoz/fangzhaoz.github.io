@@ -11,3 +11,8 @@ I am a PhD student in the Department of Electrical Engineering at Stanford Unifo
 <p></p>
 <p>Email:&nbsp;<a href="mailto:zfzhao@stanford.edu">zfzhao@stanford.edu</a></p>
 
+<p>
+<a href="mailto:zfzhao@stanford.edu"><img src="assets/img/email.jpg" height="30" width="156" /></a> &nbsp/&nbsp
+                <a href="mailto:zfzhao@stanford.edu"><img src="assets/img/scholar.jpg" height="30" width="156" /></a> &nbsp/&nbsp
+                <a href="https://github.com/fangzhaoz"><img src="assets/img/github.jpg" height="30" width="156" /></a> &nbsp/&nbsp
+</p>
