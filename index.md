@@ -18,5 +18,6 @@ Hi there &#128075;, I am Fangzhao. I am a PhD student in the Department of Elect
 <!-- <a href="mailto:zfzhao@stanford.edu"><img src="assets/img/email.jpg" height="25" width="28" /></a> 
 <!--   &nbsp; <big><big>/</big></big> &nbsp;
                 <a href="https://scholar.google.com/citations?user=1-2ftSUAAAAJ"><img src="assets/img/scholar.jpg" height="25" width="25" /></a> &nbsp; <big><big>/</big></big> &nbsp;
-                <a href="https://github.com/fangzhaoz"><img src="assets/img/github.jpg" height="25" width="25" /></a>  --> -->
-<!-- </p> -->
+                <a href="https://github.com/fangzhaoz"><img src="assets/img/github.jpg" height="25" width="25" /></a>  --> 
+
+<!-- </p> --> 
