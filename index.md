@@ -21,3 +21,11 @@ Hi there &#128075;, I am Fangzhao. I am a PhD student in the Department of Elect
                 <a href="https://github.com/fangzhaoz"><img src="assets/img/github.jpg" height="25" width="25" /></a>  --> 
 
 <!-- </p> --> 
+
+<p></p><p></p>
+
+
+<p>
+  <i>news: I will be organizing "ScaleOPT: GPU-Accelerated and Scalable Optimization" workshop at NeurIPS 2025 with Parth Nobel, Maximilian Schaller, Tetiana Parshakova, Tobia Marcucci, and Alexandre Amice. Check our website <a href="[url](https://www.cvxgrp.org/scaleopt/)">ScaleOpt</a> for update!</i>
+</p>
+
