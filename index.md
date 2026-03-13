@@ -6,6 +6,11 @@ title: "Home"
 Hi there &#128075;, I am Fangzhao. I am a PhD student in the Department of Electrical Engineering at Stanford University, advised by <a href="https://stanford.edu/~pilanci/">Mert Pilanci</a> and <a href="https://web.stanford.edu/~boyd/">Stephen Boyd</a>. Prior to joining Stanford, I obtained my bachelor's degree from the University of British Columbia, majoring in combined honors computer science and math. My research interest lies broadly in convex optimization and deep learning.
 
 <p></p>
+<p>I'm working as part-time student researcher at Bytedance Seed (MLsys group). </p>
+<p></p>
+<p></p>
+
+<p></p>
 <p>I'm open and happy to chat about research ideas :) </p>
 <p></p>
 <p></p>
