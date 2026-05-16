@@ -16,7 +16,10 @@ Hi there &#128075;, I am Fangzhao. I am a PhD student in the Department of Elect
 <p></p>
 
 <p>
-  email: &nbsp; zfzhao@stanford.edu
+  <a href="mailto:zfzhao@stanford.edu"><i class="fas fa-envelope fa-lg"></i></a> &nbsp;
+  <a href="https://scholar.google.com/citations?user=1-2ftSUAAAAJ"><i class="fas fa-graduation-cap fa-lg"></i></a> &nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><i class="fab fa-linkedin fa-lg"></i></a> &nbsp;
+  <a href="https://x.com/YOUR-X-HANDLE"><i class="fab fa-x-twitter fa-lg"></i></a>
 </p>
 
 <!-- <p style="text-align:center"> -->
