@@ -20,6 +20,7 @@ Hi there &#128075;, I am Fangzhao. I am a PhD student in the Department of Elect
   <a href="https://scholar.google.com/citations?user=LOA6X1EAAAAJ"><i class="fas fa-graduation-cap fa-lg"></i></a> &nbsp;
   <a href="https://www.linkedin.com/in/fangzhao-zhang-b0a35540b/"><i class="fab fa-linkedin fa-lg"></i></a> &nbsp;
   <a href="https://x.com/fangzhao_zhang"><i class="fab fa-x-twitter fa-lg"></i></a>
+  <a href="#"><i class="fab fa-weixin fa-lg"></i></a>
 </p>
 
 <!-- <p style="text-align:center"> -->
