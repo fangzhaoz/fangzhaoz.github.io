@@ -11,7 +11,7 @@ Hi there &#128075;, I am Fangzhao. I am a PhD student in the Department of Elect
 <p></p>
 
 <p></p>
-<p>I'm happy to chat about research ideas :), feel free to contact via: </p>
+<p>Happy to chat about research ideas :), feel free to contact via: </p>
 <p></p>
 <p></p>
 
