@@ -19,7 +19,7 @@ Hi there &#128075;, I am Fangzhao. I am a PhD student in the Department of Elect
   <a href="mailto:zfzhao@stanford.edu"><i class="fas fa-envelope fa-lg"></i></a> &nbsp;
   <a href="https://scholar.google.com/citations?user=1-2ftSUAAAAJ"><i class="fas fa-graduation-cap fa-lg"></i></a> &nbsp;
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><i class="fab fa-linkedin fa-lg"></i></a> &nbsp;
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+  <a href="https://x.com/YOUR-X-HANDLE"><i class="fab fa-twitter fa-lg"></i></a>
 </p>
 
 <!-- <p style="text-align:center"> -->
