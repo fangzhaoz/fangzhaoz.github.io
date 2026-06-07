@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 <br>
-Hi there &#128075;, I am Fangzhao. I am a PhD student at Stanford University advised by <a href="https://stanford.edu/~pilanci/">Mert Pilanci</a> and <a href="https://web.stanford.edu/~boyd/">Stephen Boyd</a>. Prior to joining Stanford, I obtained my bachelor's degree from the University of British Columbia, majoring in combined honors computer science and math. My research interest lies broadly in optimization and AI topics.
+Hi there &#128075;, I am Fangzhao. I am a PhD student in Electrical Engineering at Stanford University advised by <a href="https://stanford.edu/~pilanci/">Mert Pilanci</a> and <a href="https://web.stanford.edu/~boyd/">Stephen Boyd</a>. Prior to joining Stanford, I obtained my bachelor's degree from the University of British Columbia, majoring in combined honors computer science and math. My research interest lies broadly in optimization and AI topics.
 
 <p></p>
 <p>I'm currently working as part-time student researcher at Bytedance Seed (MLsys group). </p>
