@@ -6,7 +6,7 @@ title: "Home"
 Hi there &#128075;, I am Fangzhao. I am a PhD student in the Department of Electrical Engineering at Stanford University advised by <a href="https://stanford.edu/~pilanci/">Mert Pilanci</a> and <a href="https://web.stanford.edu/~boyd/">Stephen Boyd</a>. Prior to joining Stanford, I obtained my bachelor's degree from the University of British Columbia, majoring in math and computer science. My research interest lies broadly in optimization and AI topics.
 
 <p></p>
-<p>I'm currently part-time at Bytedance Seed (system and infra group). </p>
+<p>I'm currently part-time at Bytedance Seed (pretraining infra group). </p>
 <p></p>
 <p></p>
 
