@@ -11,7 +11,7 @@ Hi there, I am Fangzhao. I am a PhD student in the Department of Electrical Engi
 <p></p>
 
 <p></p>
-<p>Happy to chat about research ideas :), feel free to contact via: </p>
+<p>Happy to chat about research ideas, feel free to contact via: </p>
 <p></p>
 <p></p>
 
